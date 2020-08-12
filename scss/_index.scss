@@ -22,6 +22,16 @@
     border: 1px solid rgba(86, 61, 124, .2);
     padding: 15px;
 }
+h1{
+    display: inline;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    line-height:40px ;
+}
 h2{
     margin-top: 24px;
     margin-bottom: 8px;
